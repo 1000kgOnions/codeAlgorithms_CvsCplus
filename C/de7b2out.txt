@@ -1,0 +1,21 @@
+so sinh vien:4
+
+Ngo Tien Long
+10.0
+A
+Van Nam
+8.0
+B
+Quang Hoang
+7.0
+C
+Thien Tan
+9.5
+A
+tong diem cac truong A,B,C lan luot la:19.50 8.00 7.00
+truong dh co tong diem be nhat=7.00
+
+3 hs co diem cao nhat:
+Ngo Tien Long
+Thien Tan
+Van Nam

@@ -1,0 +1,27 @@
+4
+
+Nguyen Van Nhat
+70.0
+A
+Van Nhi
+80.5
+C
+Thi Ba
+78.0
+C
+Thien Tu
+91.0
+B
+tong diem cua 3 don vi A,B,C lan luot la:70.00 91.00 158.50
+don vi co tong diem max=158.50
+
+3 hs co diem cao nhat:
+Thien Tu
+91.0
+B
+Van Nhi
+80.5
+C
+Thi Ba
+78.0
+C
